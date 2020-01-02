@@ -1,0 +1,12 @@
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\bin\Debug\db.accdb
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\bin\Debug\Tugas.exe.config
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\bin\Debug\Tugas.exe
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\bin\Debug\Tugas.pdb
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\bin\Debug\Tugas.xml
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.vbprojAssemblyReference.cache
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.Form1.resources
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.Resources.resources
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.vbproj.GenerateResource.cache
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.exe
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.xml
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas\Tugas\obj\Debug\Tugas.pdb

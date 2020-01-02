@@ -11,4 +11,11 @@
         Me.PegawaiTableAdapter.Fill(Me.Datanya.Pegawai)
 
     End Sub
+	
+	Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+
+		Me.PegawaiBindingSource.AddNew()
+		PegawaiDataGridView.Enabled = True
+
+	End Sub
 End Class
